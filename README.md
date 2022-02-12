@@ -1,6 +1,6 @@
 <p align="center">
  
-<img src="https://gitee.com/Zuckerberg_ng/mypicgo/raw/master/img/202202122351166.png" alt="logo_1644515963926_1a1714" style="zoom:25%;" />
+<img src="https://gitee.com/Zuckerberg_ng/mypicgo/raw/master/img/202202122351166.png" alt="logo_1644515963926_1a1714"  />
  
 </br> 
  <a href="https://github.com/anuraghazra/github-readme-stats/actions">
