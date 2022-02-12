@@ -14,7 +14,12 @@
 - cnblogs :  [博客园](https://www.cnblogs.com/sussy/)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=codeInk-Github&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=solarized-light" alt="booms21" style="zoom:80%;" />
+<img src="https://github-readme-stats.vercel.app/api?username=codeInk-Github&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue&hide=issues,contribs" alt="booms21" style="zoom:80%;" />
+
+
+<!-- [![Top Langs 使用最多的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 
 
 <!-- - 👯 I’m looking to collaborate on ...
