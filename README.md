@@ -6,7 +6,7 @@
 <!--  <a href="https://www.cnblogs.com/sussy/">
        <img alt="My blogs" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
  </a> -->
- <img src="https://raw.githubusercontent.com/codeInk-Github/codeInk-Github/main/img/line1.png" alt="YbDqly4opA" style="zoom:150%;" />
+ <img src="https://raw.githubusercontent.com/codeInk-Github/codeInk-Github/main/img/line1.png" alt="YbDqly4opA" style="height:12px;width:100%" />
 
 </p>
 
