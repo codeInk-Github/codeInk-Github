@@ -1,7 +1,9 @@
 ### Hi there 👋
+<center>
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=codeInk-Github&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=solarized-light" alt="booms21" style="zoom:80%;" />
 
-![booms21](https://github-readme-stats.vercel.app/api?username=codeInk-Github&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue)
-
+</center>
 
 <!-- **codeInk-Github/codeInk-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
